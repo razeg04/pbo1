@@ -1,5 +1,5 @@
 public class Main{
-public static void(String[]args){
-System.out.println(''Ini program utama");
+public static void main(String[]args){
+System.out.println("Ini program utama");
 }
 }
